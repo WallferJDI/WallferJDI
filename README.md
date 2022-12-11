@@ -12,7 +12,7 @@
 - Angular
 - Junit
 - Mockito
-#### DB
+#### Databases
 - MongoDB
 - MySQL
 - PostgreSQL
