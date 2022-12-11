@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 📫 email: wallferjdi@gmail.com
-
 ### My Tech stack
 #### Langugages
 - Java
